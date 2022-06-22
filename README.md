@@ -31,7 +31,7 @@ by GROOM RI - EuroSea - EuroGOOS
 
 #### 11:00 - 12:30 CEST [Chlorophyll-a RTQC and Data Management](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022_06_22_RTQC_Chla.md)
 
-#### 15:00 - 16:30 CEST [Real Time QC – toward harmonization in Europe](to add)
+#### 15:00 - 16:30 CEST [Real Time QC – toward harmonization in Europe](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022_06_22_toward_NRT_QC_harmonisation.md)
 
 
 ### Thursday June 23 2022
