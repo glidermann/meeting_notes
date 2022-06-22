@@ -23,7 +23,7 @@ by GROOM RI - EuroSea - EuroGOOS
 
 ### Tuesday June 21 2022
 
-#### 11:00 - 12:30 CEST [Metadata management and controlled vocabularie](link note and slide there)
+#### 11:00 - 12:30 CEST [Metadata management and controlled vocabularies](link note and slide there)
 
 #### 15:00 - 16:30 CEST [T&S RTQC and Data Management](https://github.com/OceanGlidersCommunity/Salinity_SOP/blob/main/meeting_notes/2022_06_20_RTQC_session.md)
 
