@@ -1,2 +1,3 @@
 # Meeting notes
-Collection of meetings notes
+
+This repo is build to store OceanGliders meeting notes.
