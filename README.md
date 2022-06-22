@@ -38,3 +38,9 @@ by GROOM RI - EuroSea - EuroGOOS
 
 #### 15:00 - 16:30 CEST [O2 RTQC and Data Management](add link to meeting notes)
 
+### Friday June 24 2022
+
+#### 14:00 – 15.30 CEST [Planery](link notes and link slides there)
+
+
+
