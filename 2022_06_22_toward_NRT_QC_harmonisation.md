@@ -11,11 +11,8 @@ Notes: Callum Rollo, Victor Turpin
 
 ## Participants
 Justin Buck (NOC), Victor Turpin (OceanOps, France), Soeren Thomsen (LOCEAN, France), Maryam Hassani (UT), Pierre Testor (LOCEAN/CNRS, France), Dave Hebert (BIO.DFO Canada), Callum Rollo (VOTO, Sweden), Carolina Amadio (OGS), Kimmo Tikka (FMI, Finland), Clara M. Loureiro (UAz, Portugal)
-- please at your name
 
 ## Notes arrising during opening slides (Victor)
-
-- please support note taking
 
 Gui has been leading NRT QC.
 
