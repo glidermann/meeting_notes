@@ -1,6 +1,9 @@
 # Meeting notes
 
-This repo is build to store OceanGliders meeting notes.
+This repo is build to store meeting notes to allow people from the OceanGlidersCommunity to better follow the meeting discussions. 
+Please support this collective documentation.
+
+If you are having a meeting on OceanGliders relevant topics feel free to use this infrastructure! 
 
 
 ## European Glider Data Management Workshop Agenda Week 1 
