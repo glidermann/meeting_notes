@@ -3,9 +3,9 @@
 This repo is build to store OceanGliders meeting notes.
 
 
-## European Glider Data Management Workshop Agenda Week 1
+## European Glider Data Management Workshop Agenda Week 1 
 
-### Monday
+### Monday June 20 2022
 
 ### 16:30 - 17:30 [GitHub Training](https://github.com/OceanGlidersCommunity/LearningGitHub/blob/main/training_session_07.md)
 
