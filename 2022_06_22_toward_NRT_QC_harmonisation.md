@@ -25,8 +25,7 @@ Coriolis processing [link](https://www.seanoe.org/data/00343/45402/). Also used 
 
 Bastien Questse's [toolbox](http://www.byqueste.com/toolbox.html) works for nrt but is mostly used in delayed mode. No longer actively maintained
 
-GliderTools can work in NRT with SeaExplorer, but designed with delayed mode in mind. 
-
+[GliderTools](https://github.com/GliderToolsCommunity/GliderTools) can work in NRT with SeaExplorer, but designed with delayed mode in mind. 
 
 IOOS qartod approach is by variable, not by platform. Has extensive manual. Regularly updated. Have many tests and QC methods.
 
