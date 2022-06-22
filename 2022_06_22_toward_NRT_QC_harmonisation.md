@@ -5,8 +5,7 @@
 
 ## Agenda
 Chair: Justin Buck
-Notes: - who wants to take notes during the introduction?, Victor Turpin will report the discussion (not the introduction) 
-**Everyone's support is welcome**
+Notes: Callum Rollo, Victor Turpin 
 
 [Opening presenation - Victor Turpin](link here)
 
