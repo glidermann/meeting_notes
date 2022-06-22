@@ -1,0 +1,110 @@
+# RTQC and Data Management of Chlorophyll-a 
+
+## Date: June 22 2022 11:00 - 12:30 CEST
+
+
+## Participants: 
+Soeren Thomsen (LOCEAN/CNRS, France), Pierre Testor (LOCEAN/CNRS, France), Kimmo Tikka (FMI), Antonio Bussani (OGS), Dave Hebert (BIO/DFO Canada), Anthony Bosse (MIO, France), Callum Rollo (VOTO, Schweden), Justin Buck (NOC), Virginie Racapé (Pokapok), Thania Papapostolou (HCMR), Carolina Amadio (OGS), Maryam Hassani(UT), Catherine Schmechtig(CNRS)
+- please add your name
+
+
+## Agenda
+1) Victor presentation (add slides)
+2) Catherine Schmechtig (add slides)
+3) Discussion
+
+
+## Live Notes
+Victor: gives presentation, outlines problems related to the Chla data pipeline
+
+Victor: Makes sense to get inspired by Argo
+
+Catherine Schmechtig:
+
+Outlines RTQC Chla for Argo
+3 QC applied in RT :
+1 - correction of black (zero values at depth)
+2 - non-photochemical quenching (NPQ) -> lower values during daytime of chla due to in vivo dynamics of chla (adaptation of organisms to light)
+3 - Slope correction (factory calibration) can change from one region to another : mean value of 2 is taking into account globally despite some regional variability
+
+Meta data (coeff and equation) is stored in nc files (factory and scientific (ie adjusted) dark and slope coefficient)
+
+bbp (2015 : agrees on equation, 2016/2017 : reprocessing of data at GDAC level by Antoine Poteau, 2018 : feddback by manufacturor)
+
+BBP RTQC tests developped in framework of EuroArgo-RISE project (G. Dall'Olmo)
+
+Justin Buck : Does the sclae factor issue identifed in Argo also affect gliders?
+CS knows from which SN the issue does not apply and will share it, we as a glider community will need to contact the manaufacturer for corrections prior to this serial number. 
+ECO sensor after June 2018 -> NO require a new scale factor.
+ECO sensor with serial number higher than 5090 -> NO require a new scale factor
+
+S. Thomsen : we needed to take samples to quantify biomass (and so on). Cruise data is really key nearby the glider to analyse chla data from glider.
+
+V. Turpin : different QC for fluorescence and chla. What is important for the operationnal oceanography?
+
+P. Testor : RT and DM are different things, lets focus on RT.
+
+Catherine Schmechtig: 3 steps for RTQC are the same between DMQC and RTQC. Most people are interested as Chla and few in fluorescence.
+
+Justin: Are the documents which outline the different requirements for operational vs. scientific Delayed Mode community users of Chl-A data? 
+
+Catherine S.: errors are key for data providers, potentially up to 100% in real time and 30-50% in delayed mode
+
+
+
+Justin: We as a glider community need to learn from Argo, Argo has made huge progress, the final method aplied on gldier may differ slightly form Argo beacuse gldiers have a different sampling resolution but learning from Argo and sharing knowledge and appraoches is crucial (there is a cricital mass of knowledge and progress in Argo that we need to learn from).
+
+
+Catherine: Argo have put a large amount of effort into BBP and this will need to be taken on board by gldiers too.
+
+Catherine: The ratio of Chl-A and BBP is used to correct quenching, needs day and night profiles
+
+Justin: It depends on how the glider is configured to sample, easier for shallow gliders that do more profiles.
+
+Dave Hebert: Sets gldier to do day and nigth profiels to enable quenching corrections
+
+Victor: Do we need to set requirements ofn piloting to enbale these corrections
+Justin: Similar to the NRT doscussion yesterday, I think so.
+
+
+
+Catherine: A new sensor with new excitation wavelengths on Chl-A is likely soon. Making sure we have sufficient metadata to capture this is key when they are introduced on gliders.
+
+
+Victor: Re-introduced governance topic. What advice does Catherine have for gliders.
+
+Catherine: Regularly share progress and issues. One person each DAC engaged in the process for Chl-A is important. Shifting representatives slows the process.
+
+Soeren: Sustainabiltiy of people and knowledge is important. This is why documenting meetings is crucial. How can the transfer of knowledge be managed?
+
+Catherine: Sharing presentations/minutes is key to keep track of decisions etc. Also, a repository to store development is being setup. More efficieny needed for BGC parameters, is a bit slower than T&S.
+
+Soeren: Training of the community is key. Fundimental skills like formats and coding need to shared effectively. It is a long process though.
+
+Callum: Agrees with Catehrine, Is there a plan with with GROOM for making minutes available.
+
+Victor: Plan is to use the GROOM google drive for particpants, but need a way to link this tothe OG community repo.
+
+Callum: Is it possible to make it broader than participants
+
+Victor: We need to find and option for this
+
+
+(Justin lost track of conversation briefly here so a gap in notes)
+
+
+Soeren: suggested a closer collaboration with Argo and offered support on GitHub akin to the work he has led in gliders as per of EuroSea
+
+CS: the community of expert user of Argo float pushed to simplify RTQC to simple things (no spikes QC for instance)
+
+
+Justin: the relevant Quartod manual is year for the USA approach https://repository.oceanbestpractices.org/handle/11329/263
+
+
+
+Comments: 
+Soeren: We have to get back to the authors (Filipa Carvalho, Sandy Thomalla, Thomas Ryan-Keogh, Tom Hull, Bastien Queste) of the DMQC overview paper chapter on Chla. They wrote a very nice 2 pager on key actions to be taken including key literature etc. The text is close to be ready to be publishable. I could share the google doc link here but maybe we should discuss this before? Pierre?
+
+Soeren: Sophie Clayton is planning to develop a Chla SOP for OOI in the US. It would make sense to converge methods and connect and NOT reinvent the wheel again but build on existing work. 
+Please engange here: 
+https://github.com/OceanGlidersCommunity/OceanGliders/discussions/10
