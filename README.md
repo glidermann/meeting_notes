@@ -11,7 +11,7 @@ The process:
 3) Export the *.md file and upload it here
 
 
-## European Glider Data Management Workshop Agenda Week 1 (June 20 - 24 2022)
+## [European Glider Data Management Workshop Agenda Week 1 (June 20 - 24 2022)](https://www.groom-h2020.eu/european-glider-data-management-workshop-agenda/)
 
 ### Monday June 20 2022
 
