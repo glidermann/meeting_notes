@@ -12,7 +12,8 @@ The process:
 4) Upload slides and link them in the notes.
 
 
-## [European Glider Data Management Workshop Agenda Week 1 (June 20 - 24 2022)](https://www.groom-h2020.eu/european-glider-data-management-workshop-agenda/) by GROOM RI - EuroSea - EuroGOOS
+## [European Glider Data Management Workshop Agenda Week 1](https://www.groom-h2020.eu/european-glider-data-management-workshop-agenda/) 
+by GROOM RI - EuroSea - EuroGOOS
 
 ### Monday June 20 2022
 
