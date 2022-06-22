@@ -6,7 +6,7 @@ Please support this collective documentation.
 If you are having a meeting on OceanGliders relevant topics feel free to use this infrastructure! 
 
 
-## European Glider Data Management Workshop Agenda Week 1 
+## European Glider Data Management Workshop Agenda Week 1 (June 20 - 24 2022)
 
 ### Monday June 20 2022
 
