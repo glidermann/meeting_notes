@@ -15,9 +15,9 @@ The process:
 
 ### Monday June 20 2022
 
-#### 15:00 - 16:30 CEST [Planery](link notes and link slides there)
+#### 14:00 – 15.30 CEST [Planery](link notes and link slides there)
 
-#### 16:30 - 17:30 CEST [GitHub Training](https://github.com/OceanGlidersCommunity/LearningGitHub/blob/main/training_session_07.md)
+#### 16:00 - 17:30 CEST [GitHub Training](https://github.com/OceanGlidersCommunity/LearningGitHub/blob/main/training_session_07.md)
 
 ### Tuesday June 21 2022
 
