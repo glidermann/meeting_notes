@@ -5,6 +5,11 @@ Please support this collective documentation.
 
 If you are having a meeting on OceanGliders relevant topics feel free to use this infrastructure! 
 
+The process: 
+1) Use [HackMD](https://hackmd.io) collectively during the meeting. 
+2) Clean up the HackMD file collectively towards the end of the meeting
+3) Export the *.md file and upload it here
+
 
 ## European Glider Data Management Workshop Agenda Week 1 (June 20 - 24 2022)
 
