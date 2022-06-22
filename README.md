@@ -22,3 +22,8 @@ If you are having a meeting on OceanGliders relevant topics feel free to use thi
 
 #### 15:00 - 16:30 CEST [Real Time QC – toward harmonization in Europe](to add)
 
+
+### Thursday June 23 2022
+
+#### 15:00 - 16:30 CEST [O2 RTQC and Data Management](add link to meeting notes)
+
