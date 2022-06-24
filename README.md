@@ -36,7 +36,8 @@ by GROOM RI - EuroSea - EuroGOOS
 
 ### Thursday June 23 2022
 
-#### 15:00 - 16:30 CEST [O2 RTQC and Data Management presentation](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/WS6%20-%20Focus%20on%20Real%20Time%20data%20management%20of%20Oxygen%20Data%20V5.pdf) and [meeting notes](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/WS6%20-%20Real%20Time%200xygen%20data%20management.md)
+#### 15:00 - 16:30 CEST [O2 RTQC and Data Management](https://github.com/OceanGlidersCommunity/Oxygen_SOP/blob/main/meeting_notes/2022_06_23_RTQC_O2_session.md)
+
 ### Friday June 24 2022
 
 #### 14:00 – 15.30 CEST [Planery](link notes and link slides there)
