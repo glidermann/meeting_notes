@@ -9,8 +9,6 @@ Notes: **need support here**
 # Participants
 Justin Buck (BODC, UK), Victor Turpin (OceanOPS, France), Soeren Thomsen (LOCEAN, France), Dave Hebert (BIO/DFO Canada), catherine Schmechtig(CNRS,France), Maryam Hassani (UT,Iran), Kimmo Tikka (FMI, Finland), Carolina Amadio (OGS), Anthony Bosse (MIO, France), Claire Gourcuff (Euro-Argo),Thania Papapostolou (HCMR), Pierre Testor (LOCEAN/CNRS, France), Corentin Guyot (Ifremer), Antonio Bussani (OGS)
 
-**add your name and affiliation here**
-
 # Agenda
 1) Workshop objectives 
 2) Assessment of the Real Time Oxygen data uptake
@@ -21,6 +19,7 @@ Justin Buck (BODC, UK), Victor Turpin (OceanOPS, France), Soeren Thomsen (LOCEAN
     - Oxygen time respond correction in real time: the example of Argo
 4) Wrap up
 
+view presentation [here](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/WS6%20-%20Focus%20on%20Real%20Time%20data%20management%20of%20Oxygen%20Data%20V5.pdf)
 
 # Meeting notes
 Victor: Presents intro slides
