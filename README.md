@@ -17,7 +17,7 @@ by GROOM RI - EuroSea - EuroGOOS
 
 ### Monday June 20 2022
 
-#### 14:00 – 15.30 CEST [Planery](link notes and link slides there)
+#### 14:00 – 15.30 CEST [Plenary](link notes and link slides there)
 
 #### 16:00 - 17:30 CEST [GitHub Training](https://github.com/OceanGlidersCommunity/LearningGitHub/blob/main/training_session_07.md)
 
