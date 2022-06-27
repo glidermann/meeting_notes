@@ -40,7 +40,7 @@ by GROOM RI - EuroSea - EuroGOOS
 
 ### Friday June 24 2022
 
-#### 14:00 – 15.30 CEST [Planery](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/plenary_session_24th_June_2022.md)
+#### 14:00 – 15.30 CEST [Plenary](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/plenary_session_24th_June_2022.md)
 
 
 
