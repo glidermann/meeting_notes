@@ -3,7 +3,9 @@
 ## GitHub Training
 [summary slides](add link to slides here)
 ### Discussion
-
+It was agreed that training new community members in basic GitHub skills is crucial to ensure the sustainability of all efforts. 
+Callum agreed for now to offer basic training sessions. However a sustainable long term solution is needed. 
+Pierre T. stressed that this will be supported also financially i.e. through GROOM II.
 
 ## Metadata management and controlled vocabularies
 [summary slides](add link to slides here)
@@ -13,7 +15,7 @@
 ## T&S RTQC and Data Management
 [summary slides](add link to slides here)
 ### Discussion
-
+Finishing the RTQC chapter of the salinity SOP has high priority. Gui is leading it and and any support is more than welcome. 
 
 ## Chlorophyll-a RTQC and Data Management
 [summary slides](add link to slides here)
