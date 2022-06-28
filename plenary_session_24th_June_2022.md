@@ -4,7 +4,7 @@
 [summary slides](add link to slides here)
 ### Discussion
 It was agreed that training new community members in basic GitHub skills is crucial to ensure the sustainability of all efforts. 
-Callum Rolo agreed for now to offer basic training sessions. However a sustainable long term solution is needed. 
+Callum Rollo agreed for now to offer basic training sessions. However a sustainable long term solution is needed. 
 Pierre Testor stressed that this will be supported also financially i.e. through GROOM II.
 
 ## Metadata management and controlled vocabularies
