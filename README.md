@@ -43,4 +43,5 @@ by GROOM RI - EuroSea - EuroGOOS
 #### 14:00 – 15.30 CEST [Plenary](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/plenary_session_24th_June_2022.md)
 
 
+## OceanGliders Best Practice Workshop May 11 - 25 2022
 
