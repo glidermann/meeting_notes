@@ -8,4 +8,34 @@ All times are in CEST
 
 ### Wednesday May 12 
 
+### Thursday May 13 
+
+### Friday May 14 
+
+
+- WEEKEND - 
+
+### Monday May 17 
+- writing day
+
+### Tuesday May 18
+
+### Wednesday May 19
+
+### Thursday May 20
+
+### Friday May 21
+
+- WEEKEND - 
+
+### Monday May 24
+
+### Tuesday May 25 
+
+
+
+
+
+
+
 
