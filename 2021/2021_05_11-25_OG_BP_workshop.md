@@ -29,7 +29,7 @@ All times are in CEST
 - Setting up a glider facility: Assign people to paragraphs (J. Barth)
   
 ### Friday May 14 
-- 16:00-17:30 CEST  / 7:00-8:30 PDT / 22:00-23:30 AWST
+- 16:00-17:30 CEST  / 7:00-8:30 PDT / 22:00-23:30 AWST [Meeting Notes](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2021/2021_05_14_DMQC.md)
 - Delayed Mode Quality Control: Review DMQC chapter (S. Thomsen, P, Testor, M Palmer)
 
 ### **- WEEKEND -** 
