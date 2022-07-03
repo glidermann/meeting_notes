@@ -1,5 +1,7 @@
 # OceanGliders Best Practice Workshop May 11 - 25 2022
 
+Find out who participated [here](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2021/Check-In%20-%20Introduction.pdf)
+
 All times are in CEST
 
 ### Tuesday May 11 
