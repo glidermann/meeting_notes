@@ -27,6 +27,7 @@ All times are in CEST
 ### Thursday May 13 
 - 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
 - Setting up a glider facility: Assign people to paragraphs (J. Barth)
+- [Meeting Notes](2021_05_13_setting_up_glider_facility.md)
   
 ### Friday May 14 
 - 16:00-17:30 CEST  / 7:00-8:30 PDT / 22:00-23:30 AWST
