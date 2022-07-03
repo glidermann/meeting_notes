@@ -56,7 +56,7 @@ All times are in CEST
 - 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
 - Ocean Currents SOP: Reviewing of SOP (A. Pietri, A. Bosse, R. Todd)
 	
-- 20:00-21:30 CEST / 11:00-12:30 PDT / 2:00-3:30 AWST (May 20)
+- 20:00-21:30 CEST / 11:00-12:30 PDT / 2:00-3:30 AWST (May 20) [Meeting Notes](2021_05_12_pre_deployment.md)
 - Pre-deployment / Operations: Review session (J. Kohut, A. Lorenzo Lopez)
 
 ### Thursday May 20
@@ -65,7 +65,7 @@ All times are in CEST
 
 
 ### Friday May 21
-- 14:00-15:30 CEST / 5:00-6:30 PDT / 20:00-21:30 AWST
+- 14:00-15:30 CEST / 5:00-6:30 PDT / 20:00-21:30 AWST [Meeting Notes](2021_05_13_setting_up_glider_facility.md)
 - Setting up a glider facility: Review session (S. Thomalla, S. Swaart, P. Monteiro)
 
 - 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
