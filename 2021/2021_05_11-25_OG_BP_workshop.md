@@ -23,6 +23,7 @@ All times are in CEST
 
 - 20:00-21:30 CEST / 11:00-12:30 PDT / 2:00-3:30 AWST (May 13)
 - Pre-deployment / Operations: Assign people to paragraphs (A. Lorenzo Lopez, J. Kohut) 		
+- [Meeting Notes](2021_05_12_pre_deployment.md)
 
 ### Thursday May 13 
 - 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
