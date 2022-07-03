@@ -3,7 +3,7 @@
 All times are in CEST
 
 ### Tuesday May 11 
-- 16:00 - 17:30 Plenary 01: Introduction Session [Meeting Notes](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2021/2021_05_11_plenary_01.md)
+- 16:00 - 17:30 Plenary 01: [Meeting Notes](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2021/2021_05_11_plenary_01.md)
 - 19:30 - 21:00 Networking Session
 
 ### Wednesday May 12 
