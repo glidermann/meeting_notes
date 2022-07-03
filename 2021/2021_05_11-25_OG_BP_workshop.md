@@ -83,6 +83,7 @@ All times are in CEST
 - Discuss future vision of package structure
 - GliderTools as a way to promote Glider Best Practices
 - How to get involved? Join the discussion on GitHub at any time, no Python coding skills required!
+- [Meeting Notes](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2021/2021_05_24_glidertools.md)
 
 
 ### Tuesday May 25 
