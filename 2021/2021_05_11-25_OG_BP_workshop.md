@@ -15,7 +15,7 @@ All times are in CEST
 - 15:00-16:00 CEST / 6:00-7:00 PDT / 21:00-22:00 AWST [Meeting Notes](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2021/2021_05_12_RTQC.md)
 - Real-Time Quality Control: Assign people to paragraphs (G. Castelao, M. Bushnell)
 
-- 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
+- 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST [Meeting Notes](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2021/2021_05_12_data_management.md)
 - Data Management: Assign people to paragraphs (V. Turpin, J. Buck)
 
 - 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
@@ -68,7 +68,7 @@ All times are in CEST
 - 14:00-15:30 CEST / 5:00-6:30 PDT / 20:00-21:30 AWST [Meeting Notes](2021_05_13_setting_up_glider_facility.md)
 - Setting up a glider facility: Review session (S. Thomalla, S. Swaart, P. Monteiro)
 
-- 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
+- 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST [Meeting Notes](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2021/2021_05_12_data_management.md)
 - Data Management: Review session (V. Turpin, J. Buck)
 
 - 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
