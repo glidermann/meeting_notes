@@ -9,7 +9,7 @@ All times are in CEST
 - 19:30 - 21:00 Networking Session
 
 ### Wednesday May 12 
-- 07:00-8:30 CEST / 22:00-23:30 PDT (May 11) / 13:00-14:30 AWST
+- 07:00-8:30 CEST / 22:00-23:30 PDT (May 11) / 13:00-14:30 AWST [Meeting Notes](https://github.com/OceanGlidersCommunity/Oxygen_SOP/blob/main/meeting_notes/2021_05_12-22_OG_Best_Practice_Workshop_O2_session.md)
 - Oxygen SOP: Assign people to paragraphs (P. Lopez Garcia, S. Thomsen)
 
 - 15:00-16:00 CEST / 6:00-7:00 PDT / 21:00-22:00 AWST [Meeting Notes](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2021/2021_05_12_RTQC.md)
@@ -60,7 +60,7 @@ All times are in CEST
 - Pre-deployment / Operations: Review session (J. Kohut, A. Lorenzo Lopez)
 
 ### Thursday May 20
-- 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
+- 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST [Meeting Notes](https://github.com/OceanGlidersCommunity/Oxygen_SOP/blob/main/meeting_notes/2021_05_12-22_OG_Best_Practice_Workshop_O2_session.md)
 - Oxygen SOP: Reviewing of SOP (P. Lopez Garcia, L. Coppola, S. Thomsen)
 
 
