@@ -12,7 +12,7 @@ All times are in CEST
 - 07:00-8:30 CEST / 22:00-23:30 PDT (May 11) / 13:00-14:30 AWST
 - Oxygen SOP: Assign people to paragraphs (P. Lopez Garcia, S. Thomsen)
 
-- 15:00-16:00 CEST / 6:00-7:00 PDT / 21:00-22:00 AWST
+- 15:00-16:00 CEST / 6:00-7:00 PDT / 21:00-22:00 AWST [Meeting Notes](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2021/2021_05_12_RTQC.md)
 - Real-Time Quality Control: Assign people to paragraphs (G. Castelao, M. Bushnell)
 
 - 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
