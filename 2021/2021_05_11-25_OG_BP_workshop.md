@@ -21,14 +21,12 @@ All times are in CEST
 - 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
 - Ocean Currents SOP: Assign people to paragraphs (A. Pietri, A. Bosse, R. Todd)
 
-- 20:00-21:30 CEST / 11:00-12:30 PDT / 2:00-3:30 AWST (May 13)
+- 20:00-21:30 CEST / 11:00-12:30 PDT / 2:00-3:30 AWST (May 13) [Meeting Notes](2021_05_12_pre_deployment.md)
 - Pre-deployment / Operations: Assign people to paragraphs (A. Lorenzo Lopez, J. Kohut) 		
-- [Meeting Notes](2021_05_12_pre_deployment.md)
 
 ### Thursday May 13 
-- 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST
+- 16:00-17:30 CEST / 7:00-8:30 PDT / 22:00-23:30 AWST [Meeting Notes](2021_05_13_setting_up_glider_facility.md)
 - Setting up a glider facility: Assign people to paragraphs (J. Barth)
-- [Meeting Notes](2021_05_13_setting_up_glider_facility.md)
   
 ### Friday May 14 
 - 16:00-17:30 CEST  / 7:00-8:30 PDT / 22:00-23:30 AWST
