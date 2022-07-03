@@ -32,7 +32,7 @@ All times are in CEST
 - 16:00-17:30 CEST  / 7:00-8:30 PDT / 22:00-23:30 AWST
 - Delayed Mode Quality Control: Review DMQC chapter (S. Thomsen, P, Testor, M Palmer)
 
-- WEEKEND - 
+### **- WEEKEND -** 
 
 ### Monday May 17 
 - writing day
