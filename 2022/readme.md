@@ -1,1 +1,1 @@
-# Upload here the 2022 meeting notes and document to be linked to the meeting notes
+# Upload here the 2022 meeting notes and documents (presentation, agenda) to be linked to the meeting notes
