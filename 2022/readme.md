@@ -1,1 +1,5 @@
-# Upload here the 2022 meeting notes and documents (presentation, agenda) to be linked to the meeting notes
+# 2022 meeting notes
+
+Upload here the meeting notes, documents, presentation, agenda, etc.
+
+Use MarkDown and pdf formats if possible
