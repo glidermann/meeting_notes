@@ -16,7 +16,7 @@ The process:
 
 ## [European Glider Data Management Workshop Agenda Week 2](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/European%20Glider%20Data%20Management%20Workshop%20Agenda%20Week%202.md)
 
-## [European Glider Data Management Workshop Agenda Week 1]https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/European%20Glider%20Data%20Management%20Workshop%20Agenda%20Week%201.md) 
+## [European Glider Data Management Workshop Agenda Week 1](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/European%20Glider%20Data%20Management%20Workshop%20Agenda%20Week%201.md) 
 by GROOM RI - EuroSea - EuroGOOS
 
 ### Monday June 20 2022
