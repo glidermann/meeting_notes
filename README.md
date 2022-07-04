@@ -11,7 +11,7 @@ The process:
 3) Push the *.md file here.
 4) Upload slides and link them in the notes.
 
-## [OceanGliders Steering Team meeting, June 2022]
+## [OceanGliders Steering Team meeting, June 2022](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022)
 
 ## [European Glider Data Management Workshop Agenda Week 2](https://www.groom-h2020.eu/european-glider-data-management-workshop-agenda/) 
 
