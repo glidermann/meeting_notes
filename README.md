@@ -12,8 +12,7 @@ The process:
 4) Upload slides and link them in the notes.
 
 ## 2022
-## [OceanGliders Steering Team meeting, June 2022](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/Steering_team_agenda_V3.pdf)
-[meeting notes](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/OceanGliders%20Steering%20Team%20meeting%20notes.md)
+## [OceanGliders Steering Team meeting, June 2022](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/OceanGliders%20Steering%20Team%20meeting%20notes.md)
 
 ## [European Glider Data Management Workshop Agenda Week 2](https://www.groom-h2020.eu/european-glider-data-management-workshop-agenda/)
 by GROOM RI - EuroSea - EuroGOOS
