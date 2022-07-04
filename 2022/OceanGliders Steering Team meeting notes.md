@@ -2,7 +2,7 @@
 
 # Date: June 30 2022, 8:30 - 10:30 UTC
 
-Session chair: Pierre Testor
+Session chair: Brad De Young
 Notes: Victor Turpin
 
 # Participants
