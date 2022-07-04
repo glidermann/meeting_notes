@@ -8,7 +8,7 @@ Notes: Victor Turpin
 # Participants
 Victor Turpin (OceanOPS, France), Pierre Testor (LOCEAN, France), Yu Ting (IOC), Marie Porter (SAMS, UK), Robert Todd (WHOI), JongJin Park (), Charitha Pattiaratchi (UWA, Australia), Joe O'Callagan (NIWA, New Zeland), Filipa Carvalho (NOC, UK), Louise Biddle (VOTO, SWE), Dan Hayes (CSCS, Cyprus), Dave Hebert (DFO, Canada), Brad De Young (MUN, Canada)
 
-# Agenda
+# [Agenda](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/Steering_team_agenda_V3.pdf)
 1) **Welcoming and round table**
     + New members presentation
     + Official announcement to the community
