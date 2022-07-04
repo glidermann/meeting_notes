@@ -14,8 +14,8 @@ The process:
 ## 2022
 ## [OceanGliders Steering Team meeting, June 2022](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/OceanGliders%20Steering%20Team%20meeting%20notes.md)
 
-## [European Glider Data Management Workshop Agenda Week 2](https://www.groom-h2020.eu/european-glider-data-management-workshop-agenda/)
-by GROOM RI - EuroSea - EuroGOOS
+## [European Glider Data Management Workshop Agenda Week 2](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/European%20Glider%20Data%20Management%20Workshop%20Agenda%20Week%202.md)
+
 ### Tuesday 5th 14:00 – 16.00 CEST 
 (Re)designing the distributed data infrastructure in Europe (National DAC, GDAC) in the context of EuroGOOS GTT and GROOM RI ?
 
