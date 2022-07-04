@@ -1,4 +1,4 @@
-# European Glider Data Management Workshop Agenda Week 1
+# [European Glider Data Management Workshop Agenda Week 1](https://www.groom-h2020.eu/european-glider-data-management-workshop-agenda/)
 *by GROOM RI - EuroSea - EuroGOOS Glider Task Team*
 
 ### Monday June 20 2022
