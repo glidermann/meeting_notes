@@ -11,6 +11,9 @@ The process:
 3) Push the *.md file here.
 4) Upload slides and link them in the notes.
 
+## [OceanGliders Steering Team meeting, June 2022]
+
+## [European Glider Data Management Workshop Agenda Week 2](https://www.groom-h2020.eu/european-glider-data-management-workshop-agenda/) 
 
 ## [European Glider Data Management Workshop Agenda Week 1](https://www.groom-h2020.eu/european-glider-data-management-workshop-agenda/) 
 by GROOM RI - EuroSea - EuroGOOS
