@@ -1,7 +1,7 @@
 # [European Glider Data Management Workshop Agenda Week 2](https://www.groom-h2020.eu/european-glider-data-management-workshop-agenda/)
 *by GROOM RI - EuroSea - EuroGOOS*
 
-**Tuesday 5th 14:00 – 16.00 CEST:** (Re)designing the distributed data infrastructure in Europe (National DAC, GDAC) in the context of EuroGOOS GTT and GROOM RI ? 
+**Tuesday 5th 14:00 – 16.00 CEST:** [(Re)designing the distributed data infrastructure in Europe (National DAC, GDAC) in the context of EuroGOOS GTT and GROOM RI ?](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/agenda_WS2-1.pdf)
 
 Meeting note here:
 
