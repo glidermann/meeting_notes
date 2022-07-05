@@ -6,9 +6,7 @@
 Session chair: Pierre Testor (CNRS, France)
 
 # Participants
-Victor Turpin (OceanOPS), Pierre Testor (LOCEAN/CNRS)
-**add your name and affiliation here**
-Johannes Karstensen (GEOMAR), Catherine Schmechtig (CNRS), Emma Slater (NOC - BODC), Kimmo Tikka (FMI), Callum Rollo (VOTO), Yves Ponçon(LOCEAN/CNRS), Antonio Bussani (OGS), Antonio Novellino, (ETT - EMODnet), Patrick Gorringe (SMHI - EMODnet), Ailin Brakstad (UiB), Alexia Cociancich (OGS), Corentin Guyot (Ifremer), Inês Martins (IH - Portugal), Evi Bourma (HCMR), Maryam Hassani (UT), Nunzia Pirro (OGS), Claire Gourcuff (Euro-Argo)
+Victor Turpin (OceanOPS), Pierre Testor (LOCEAN/CNRS), Johannes Karstensen (GEOMAR), Catherine Schmechtig (CNRS), Emma Slater (NOC - BODC), Kimmo Tikka (FMI), Callum Rollo (VOTO), Yves Ponçon(LOCEAN/CNRS), Antonio Bussani (OGS), Antonio Novellino, (ETT - EMODnet), Patrick Gorringe (SMHI - EMODnet), Ailin Brakstad (UiB), Alexia Cociancich (OGS), Corentin Guyot (Ifremer), Inês Martins (IH - Portugal), Evi Bourma (HCMR), Maryam Hassani (UT), Nunzia Pirro (OGS), Claire Gourcuff (Euro-Argo)
 
 # Agenda
 1) [Welcoming and meeting objectives](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/WS2_1_welcome_PierreTestor.pdf) – 5 min (Pierre Testor)
