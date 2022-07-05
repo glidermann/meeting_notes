@@ -3,7 +3,7 @@
 
 **Tuesday 5th 14:00 – 16.00 CEST:** [(Re)designing the distributed data infrastructure in Europe (National DAC, GDAC) in the context of EuroGOOS GTT and GROOM RI ?](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/agenda_WS2-1.pdf)
 
-Meeting note here:
+presentation and meeting note here:
 
 **Thursday 7th 14:00 – 16.00 CEST:** How to expand the GROOM RI data management capacity to the “new” data type collected by Gliders in Europe?
 
