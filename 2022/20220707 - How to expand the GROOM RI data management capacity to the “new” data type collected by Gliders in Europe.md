@@ -18,26 +18,12 @@ Alvaro Lorenzo-Lopez (NOC, UK),Victor Turpin (OceanOPS), Pierre Testor (LOCEAN/C
     + Passive acoustic Monitoring - Dan Hayes (CSCS) - 10 min
 
 3) The future data infrastructure - Discussion (1h) – Alvaro Lorenzo-Lopez
-
 Access the live [Paddlet](https://padlet.com/alvarolorenzonoc/as89sbmo9y3iyfld)
-+ Interoperability in the future?
-+ The data infrastructure for new types of data?
-    + What should be the role of GROOM RI regarding these new data types?
-    + How do we shape the infrastructure to properly manage those datasets?
-        + How to manage high volume data - https://catalogue.ceda.ac.uk/uuid/096690aba290452d9b7208133274b69b
-    + How does GROOM engage with EU data infrastructure ?
-    + Is the concept of DAC or GDAC appropriate for the new datasets?
-        + GDAC by data type?
-+ Real time data transmission Vs Real time data management?
-    + What are the users of new datasets in real time?
-    + Is an infrastructure approach needed and useful?
-    + Integration by manufacturers
-+ Managing new datasets in delayed mode / recovery mode.
-    + Sounds, images, videos:
-        + Formats
-        + Storage
-        + Computing power
-+ Do those data type need QC ? How to QC those data ? 
+    + Is the concept of DAC or GDAC appropriate for the new datasets
+    + What should be the role of GROOM RI regarding these new data types
+    + What should be the role of GROOM RI in the European Data Infrastructure Landscape
+    + Near Real Time Data. Can we do more with a dedicated infrastructure?
+    + Managing New datasets in delayed/recovery mode. What are the challenges?
 
 # Meeting notes
 
