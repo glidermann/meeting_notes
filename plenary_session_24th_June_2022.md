@@ -1,4 +1,4 @@
-# Meeting notes from the Eurppesn glider meeting plenary session 24th June 2022
+# Meeting notes from the European glider meeting plenary session 24th June 2022
 
 ## GitHub Training
 [summary slides](add link to slides here)
