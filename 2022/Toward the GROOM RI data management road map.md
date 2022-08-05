@@ -99,19 +99,19 @@ short team
 - Emma ok 
 - Justin ok 
 ### Github or ggdoc?
-Short team : ggdoc
-Expert review : Github
-Internal review : ggdoc
+- Short team : ggdoc
+- Expert review : Github
+- Internal review : ggdoc
 ### Reviewers engagement
-Short team to draft
-Expert team made of presenters and special invitees (EMODNET,COPERNICUS,SDN)
-Publicly available on Github before review
+- Short team to draft
+- Expert team made of presenters and special invitees (EMODNET,COPERNICUS,SDN)
+- Publicly available on Github before review
 ### Agenda
 #### for the draft
-First draft end of Septembre (ggdoc) for expert review.
-Expert are the people participating to the meeting "actively" (to be confirmed)
+- First draft end of Septembre (ggdoc) for expert review.
+- Expert are the people participating to the meeting "actively" - 1 month review.
 #### for the reviewing period
-Solid draft by end Novembre for GROOM II (Github) 
+- Solid draft by end October for GROOM II review (Github) 
 #### Finalization
-1 december : internal review (ggdoc).
-Submission: 15 decembre.
+- 1 december : internal review (ggdoc).
+- Submission: 15 decembre.
