@@ -7,7 +7,7 @@
 Chair: Justin Buck
 Notes: Callum Rollo, Victor Turpin 
 
-[Opening presenation - Victor Turpin](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/WS5%20-%20Real%20Time%20QC%20-%20Toward%20European%20Harmonization%20-%20V3.pdf)
+[Opening presenation - Victor Turpin](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/WS5%20-%20Real%20Time%20QC%20-%20Toward%20European%20Harmonization%20-%20V3.pdf)
 
 ## Participants
 Justin Buck (NOC), Victor Turpin (OceanOps, France), Soeren Thomsen (LOCEAN, France), Maryam Hassani (UT), Pierre Testor (LOCEAN/CNRS, France), Dave Hebert (BIO.DFO Canada), Callum Rollo (VOTO, Sweden), Carolina Amadio (OGS), Kimmo Tikka (FMI, Finland), Clara M. Loureiro (UAz, Portugal)
