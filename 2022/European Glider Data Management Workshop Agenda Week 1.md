@@ -13,7 +13,22 @@
 
 ### Tuesday June 21 2022
 
-#### 11:00 - 12:30 CEST [Metadata management and controlled vocabularies](link note and slide there)
+#### 11:00 - 12:30 CEST Metadata management and controlled vocabularies
++ [The concept and the benefit of common vocabulary](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/2022June_European_Glider_Data_Management_5min_IntroToVocabs_gmon.pdf)
+
+##### Quick review of the existing vocab
++ [OceanOPS vocab and tools](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/WS2%20-%20OceanOPS%20vocab%20and%20tools.pdf)
++ [Current OG1.0 vocabulary](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/WS2-1-metadata-EuroGOOS_vocab2-EmmaS.pdf)
++ [NERC Vocabulary Server (NVS) introduction](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/2022June_European_Glider_Data_Management_5min_IntroToTheNVS_gmon.pdf)
+
+##### NVS demo and governance - 20 min
+
++ [Vocabulary governance (example Argo)](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/2022June_Europen_Glider_Data_Management_5min_VocabGovernance_gmon.pdf)
++ [NVS search](https://vocab.nerc.ac.uk/search_nvs/)
++ [Adopting a vocabulary](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/WS2-1%20vocab%20implementation.pdf)
+
+##### EGO form to facilitate metadata management
++ [Online tool demonstrator](https://www.ego-network.org/dokuwiki/doku.php?id=private:add_an_ego_glider)
 
 #### 15:00 - 16:30 CEST [T&S RTQC and Data Management](https://github.com/OceanGlidersCommunity/Salinity_SOP/blob/main/meeting_notes/2022_06_20_RTQC_session.md)
 
