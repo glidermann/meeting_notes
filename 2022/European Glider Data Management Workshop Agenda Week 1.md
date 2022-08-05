@@ -15,9 +15,9 @@
 
 ### Wednesday June 22 2022
 
-#### 11:00 - 12:30 CEST [Chlorophyll-a RTQC and Data Management](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022_06_22_RTQC_Chla.md)
+#### 11:00 - 12:30 CEST [Chlorophyll-a RTQC and Data Management](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/2022_06_22_RTQC_Chla.md)
 
-#### 15:00 - 16:30 CEST [Real Time QC – toward harmonization in Europe](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022_06_22_toward_NRT_QC_harmonisation.md)
+#### 15:00 - 16:30 CEST [Real Time QC – toward harmonization in Europe](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/2022_06_22_toward_NRT_QC_harmonisation.md)
 
 
 ### Thursday June 23 2022
@@ -26,4 +26,4 @@
 
 ### Friday June 24 2022
 
-#### 14:00 – 15.30 CEST [Plenary](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/plenary_session_24th_June_2022.md)
+#### 14:00 – 15.30 CEST [Plenary](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/plenary_session_24th_June_2022.md)
