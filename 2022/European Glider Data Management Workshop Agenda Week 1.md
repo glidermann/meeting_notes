@@ -4,7 +4,12 @@
 ### Monday June 20 2022
 
 #### 14:00 – 15.30 CEST [Plenary](link notes and link slides there)
-+ [introuction]()
++ [OceanGliders and GROOM RI – EuroSea – EuroGOOS context](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/Plenary_OceanGlidersGROOMIIEuroSeaEuroGOOS_ObjectivesGroundRules.pdf)
++ [Status of the European Real Time glider data management system in the international context]()
++ [OceanGliders BP and SOPs](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/Groom%20II_%20power%20point%20template%20-%20data%20mgt%20ws%20-%20V2_best_practices.pdf)
++ [OG1.0 the common format for gliders]()
+
+
 
 #### 16:00 - 17:30 CEST [GitHub Training](https://github.com/OceanGlidersCommunity/LearningGitHub/blob/main/training_session_07.md)
 
