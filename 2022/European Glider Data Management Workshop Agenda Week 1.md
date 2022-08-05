@@ -5,11 +5,9 @@
 
 #### 14:00 – 15.30 CEST [Plenary](link notes and link slides there)
 + [OceanGliders and GROOM RI – EuroSea – EuroGOOS context](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/Plenary_OceanGlidersGROOMIIEuroSeaEuroGOOS_ObjectivesGroundRules.pdf)
-+ [Status of the European Real Time glider data management system in the international context]()
++ [Status of the European Real Time glider data management system in the international context](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/2%20-%20Plenary-1-Victor_Turpin.pdf)
 + [OceanGliders BP and SOPs](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/Groom%20II_%20power%20point%20template%20-%20data%20mgt%20ws%20-%20V2_best_practices.pdf)
-+ [OG1.0 the common format for gliders]()
-
-
++ [OG1.0 the common format for gliders](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/Glider%20workshop%20-%20OG1%20implemtnation%20-%20jbuck.pdf)
 
 #### 16:00 - 17:30 CEST [GitHub Training](https://github.com/OceanGlidersCommunity/LearningGitHub/blob/main/training_session_07.md)
 
