@@ -11,5 +11,5 @@ Presentations and meeting note [here](https://github.com/OceanGlidersCommunity/m
 
 **Friday 8th 14:00 – 15.00 CEST:** Plans toward GROOM RI data management road map.
 
-meeting note here
+meeting note [here](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/Toward%20the%20GROOM%20RI%20data%20management%20road%20map.md)
 
