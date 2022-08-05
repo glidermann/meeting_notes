@@ -5,8 +5,6 @@
 
 Session chair: Victor Turpin (OceanOPS)
 
-[meeting presentation](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/2%20-%20Plenary-1-Victor_Turpin.pdf)
-
 # Participants
 Victor Turpin (OceanOPS), Justin Buck (BODC), Callum Rolo (VOTO), Pierre Testor (CNRS), Laurent Mortier (CNRS), Emma Salter (BODC), Kamil Szafranzki (ARMINES), Sylvie Pouliquen (IFREMER); Kimmo Tikka (FMI)
 
