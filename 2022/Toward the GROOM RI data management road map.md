@@ -99,9 +99,9 @@ short team
 - Emma ok 
 - Justin ok 
 ### Github or ggdoc?
- Short team : ggdoc
- Expert review : Github
- Internal review : ggdoc
+Short team : ggdoc
+Expert review : Github
+Internal review : ggdoc
 ### Reviewers engagement
 Short team to draft
 Expert team made of presenters and special invitees (EMODNET,COPERNICUS,SDN)
