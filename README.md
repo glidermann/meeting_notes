@@ -14,9 +14,9 @@ The process:
 ## 2022
 ## [OceanGliders Steering Team meeting, June 2022](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/OceanGliders%20Steering%20Team%20meeting%20notes.md)
 
-## [European Glider Data Management Workshop Agenda Week 2](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/European%20Glider%20Data%20Management%20Workshop%20Agenda%20Week%202.md)
+## [European Glider Data Management Workshop agenda and notes Week 2](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/European%20Glider%20Data%20Management%20Workshop%20Agenda%20Week%202.md)
 
-## [European Glider Data Management Workshop Agenda Week 1](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/European%20Glider%20Data%20Management%20Workshop%20Agenda%20Week%201.md) 
+## [European Glider Data Management Workshop agenda and notes Week 1](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/European%20Glider%20Data%20Management%20Workshop%20Agenda%20Week%201.md) 
 
 ## 2021
 
