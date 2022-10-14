@@ -12,6 +12,9 @@ The process:
 4) Upload slides and link them in the notes.
 
 ## 2022
+
+## [OG1.0 working group meeting, October 2022]()
+
 ## [OceanGliders Steering Team meeting, June 2022](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/OceanGliders%20Steering%20Team%20meeting%20notes.md)
 
 ## [European Glider Data Management Workshop agenda and notes Week 2](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/European%20Glider%20Data%20Management%20Workshop%20Agenda%20Week%202.md)
