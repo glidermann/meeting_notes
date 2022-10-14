@@ -13,7 +13,7 @@ The process:
 
 ## 2022
 
-## [OG1.0 working group meeting, October 2022]()
+## [OG1.0 working group meeting, October 2022](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/20221014%20-%20OG1.0%20meeting.md)
 
 ## [OceanGliders Steering Team meeting, June 2022](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/OceanGliders%20Steering%20Team%20meeting%20notes.md)
 
