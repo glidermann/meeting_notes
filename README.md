@@ -12,7 +12,7 @@ The process:
 4) Upload slides and link them in the notes.
 
 ## 2022
-## [OceanGliders Steering Team meeting, December 2022](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/)
+## [OceanGliders Steering Team meeting, December 2022](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/OceanGliders%20Steering%20Team%20Meeting%20-%20December%202022.md)
 
 ## [OG1.0 working group meeting, October 2022](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/20221014%20-%20OG1.0%20meeting.md)
 
