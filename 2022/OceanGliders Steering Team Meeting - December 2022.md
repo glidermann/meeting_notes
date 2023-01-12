@@ -7,7 +7,7 @@ Brad De Young, Pierre Testor, Filipa Carvalho, Dan Hayes, Elena Mauri, Grace Sab
 Pr. Rama Rao Patthabi
 
 ## Agenda:
-* The use of gliders in the INDOO, presentation by Pr. Pattahbi (to be confirmed)
+* The use of gliders in the INDOOS, presentation by Pr. Pattahbi (to be confirmed)
 * Reorganizing the TT approach
 * How to progress toward archival and delayed mode data
 * Linking OceanGliders with the Decade activities (GOOS C-Design, OceanPredict, CoastPredict...).
@@ -31,7 +31,7 @@ Pr. Rama Rao Patthabi
 ### The use of gliders in the INCOIS observing capacity
 Dr. Rama Rao Pattahbi presented INCOIS observing facilities and the plan INCOIS have with regard to gliders.
 INCOIS will grow fast with many gliders.The ambition to maintain gliders permanently on regular lines.
-Presentation of. Dr. Pattahbi is available here: 
+Presentation of. Dr. Pattahbi is available here: https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2022/Pattabhi-Glider-SG.pdf
 
 The sustained approach taken by INCOIS raise lots of interest from the OceanGliders steering team. The team is considering how to follow up with INCOIS.
 
