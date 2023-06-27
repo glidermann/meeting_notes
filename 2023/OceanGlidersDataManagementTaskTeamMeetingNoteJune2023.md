@@ -13,7 +13,7 @@ Emma Gardner, Justin Buck, Jennifer Sevadjian, Guilherme Castelao, Victor Turpin
 
 # Summary on progress
 OceanGliders steering team requested the Data management task team to report on progress, membership and plan. 
-One - two pages reports no more. This report is available [here](2023/OGCalForTaskTeamReviewJune2023.md).
+One - two pages reports no more. This report is available [here](2023/OGCalForTaskTeamReviewJune2023.md](https://github.com/OceanGlidersCommunity/meeting_notes/blob/main/2023/OGCalForTaskTeamReviewJune2023.md).
 Main message will be:
 * OG1.0 and BUFR worked pretty ok.
 * RTQC and DMQC never progress.
