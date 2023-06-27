@@ -11,4 +11,12 @@ Justin Buck (BODC), Guilherme Castelao (SIO), Thierry Carval (IFREMER), Juan Gab
 The initial group formed in 2018 was pretty large with 111 members reachable through the Task team mailing list (og-dm@jcommops.org) and gathered around the slack channel [https://oceangliderdmtt.slack.com](https://oceangliderdmtt.slack.com).
 It is worth saying that the mailing list and the stalck channel are not often used since about 2 years.
 
+4 working groups emerged at the early stage of the task team.
+* Format harmonization
+* BUFR format
+* Real Time QC
+* Delayed Time QC. 
+
+While Format harmonization and BUFR format working group achieved their objective (see paragraph below), the Real Time QC and the delayed time QC did not progress much. 
+
 
