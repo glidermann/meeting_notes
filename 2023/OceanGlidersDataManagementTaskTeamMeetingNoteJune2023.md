@@ -26,7 +26,7 @@ Initially, at the launch of OceanGliders Data Management Task Team, we had a lar
 
 We will organize a call to renew membership in September in order to set up a new DM TT late 2023.
 
-We suggest the organization of groups to progress on several topics. The identified topics are:
+We suggest also the re-organization around working groups to progress on several topics. The identified topics are:
 * Vocabs
 * OG format 1.X
 * Format checker
@@ -50,3 +50,7 @@ Priority for the next 12 month are:
 * New team, new chair, new ToR, new work plan
 
 Any other initiative is more than welcome (e.g. metadata brokering discussion).
+
+## Future OGDMTT work plan
+Emma and Justin worked proactively on what could be the work plan for the OGDMTT for the next years. This draft is available here: [https://docs.google.com/document/d/1I5w8OyhP7SsdIyWFmjDlJOE8cCWBQN6TC2iYPf6Bdb8/edit?usp=sharing](https://docs.google.com/document/d/1I5w8OyhP7SsdIyWFmjDlJOE8cCWBQN6TC2iYPf6Bdb8/edit?usp=sharing) and available for comments and suggestions.
+
