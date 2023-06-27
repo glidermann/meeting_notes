@@ -13,10 +13,10 @@ Emma Gardner, Justin Buck, Jennifer Sevadjian, Guilherme Castelao, Victor Turpin
 
 # Summary on progress
 OceanGliders steering team requested the Data management task team to report on progress, membership and plan. 
-One - two pages reports no more. This report is available *here*.
+One - two pages reports no more. This report is available [here]().
 Main message will be:
-OG1.0 and BUFR worked pretty ok.
-RTQC and DMQC never progress.
+* OG1.0 and BUFR worked pretty ok.
+* RTQC and DMQC never progress.
 
 
 # Renewing membership
@@ -24,18 +24,17 @@ Dan Hayes (CSCS, chair), Victor Turpin (OceanOPS, chair), Jennifer Sevadjian (SI
 
 Initially, at the launch of OceanGliders Data Management Task Team, we had a large group of people interested (this group can be find on the slack channel), distributed in some sub-groups (RTQC,DMQC, OG1.0, BUFR). 
 
-We will organize a call to renew membership in September in order to set up a new DM TT last 2023.
-The 
+We will organize a call to renew membership in September in order to set up a new DM TT late 2023.
 
 We suggest the organization of groups to progress on several topics. The identified topics are:
-+ Vocabs
-+ OG format 1.X
-+ Format checker
-+ Evolution of the data system
-+ Metadata broker
-+ WIS2.0
-+ NRT QC
-+ DM QC
+* Vocabs
+* OG format 1.X
+* Format checker
+* Evolution of the data system
+* Metadata broker
+* WIS2.0
+* NRT QC
+* DM QC
 
 # Change in the chairing of the TT
 Dan Hayes and Victor Turpin chaired the OG DM TT since 2017. Both have expressed their will to step back.
@@ -46,8 +45,8 @@ Emma Gardner is considering the role at this stage.
 
 ## Plans for the next years
 Priority for the next 12 month are:
-+ Communication around OG1.0
-+ Review of exiting procedure around Delayed mode quality control.
-+ New team, new chair, new ToR, new work plan
+* Communication around OG1.0
+* Review of exiting procedure around Delayed mode quality control.
+* New team, new chair, new ToR, new work plan
 
 Any other initiative is more than welcome (e.g. metadata brokering discussion).
