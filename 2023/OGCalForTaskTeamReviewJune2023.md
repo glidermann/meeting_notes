@@ -1,4 +1,4 @@
-# Report from the OceanGliders data management task team
+# Progress report from the OceanGliders data management task team
 In responce to [https://www.oceangliders.org/wp-content/uploads/2023/06/OceanGliders-Call-for-Task-Team.pdf](https://www.oceangliders.org/wp-content/uploads/2023/06/OceanGliders-Call-for-Task-Team.pdf )
 
 ## Chair and co-Chair
