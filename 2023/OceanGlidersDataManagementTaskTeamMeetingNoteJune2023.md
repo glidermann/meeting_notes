@@ -46,6 +46,7 @@ Emma Gardner is considering the role at this stage.
 ## Plans for the next years
 Priority for the next 12 month are:
 * Communication around OG1.0
+* Communication around BUFR
 * Review of exiting procedure around Delayed mode quality control.
 * New team, new chair, new ToR, new work plan
 

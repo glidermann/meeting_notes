@@ -42,6 +42,7 @@ Agreeing about chla and Oxygen data was more complicated than expected and the u
 The OGDMTT will renew its membership and chair by the end of the year through a dedicated call (OCt 2023 - Dec 2023).
 Priorities for the OGDMTT for the end of the year are:
 * Communication around OG1.0,
+* Communication around BUFR
 * Review of exiting procedure around Delayed mode quality control,
 * Call for new members, new chairs, new ToR, new work plan.
 
